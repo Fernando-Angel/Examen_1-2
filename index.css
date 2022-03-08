@@ -6,6 +6,7 @@
     border: 1px solid black;
     border-radius: 10px;
     width: 30%;
+    background-color:antiquewhite;
 }
 
 .renglon{
@@ -15,5 +16,5 @@
 }
 
 .btn{
-    margin-left: 100px
+    margin-left: 80px
 }
